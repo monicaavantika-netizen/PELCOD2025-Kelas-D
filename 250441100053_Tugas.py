@@ -22,4 +22,5 @@ print(harga_pensil* jumlah_pensil + harga_buku*jumlah_buku)
 if angka_favorit % 30 == 0 :
     print("angka genap")
 else:
+
     print("angka ganjil")
